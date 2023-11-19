@@ -4,14 +4,16 @@
     height: 60;
     border-radius: 5px;
 }
-.tic-btn{
-    background-color:darkgray;
+
+.tic-btn {
+    background-color: darkgray;
     width: 70;
     height: 60;
     border-radius: 5px;
 }
-.tic-head{
-    font-size: 100px;     
-    color:darkcyan; 
-    font-family:'Times New Roman', Times, serif
+
+.tic-head {
+    font-size: 100px;
+    color: darkcyan;
+    font-family: 'Times New Roman', Times, serif
 }
